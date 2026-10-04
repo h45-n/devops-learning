@@ -1,1 +1,1 @@
-echo # devops-learning-linux
+# devops-learning
