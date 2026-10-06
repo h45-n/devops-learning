@@ -1,4 +1,3 @@
-# NetworkChuck New  
 - Initially made on Remnote, but, later transferred to here.
 - Extracurricular understanding  
 
